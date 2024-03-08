@@ -1,0 +1,40 @@
+.contenedor
+{background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    width:  1300px;
+    height: 1000px;
+}
+.container
+{
+    display:flex;
+    flex-direction:row-reverse;
+    max-height: fit-content;
+    display: flexbox;
+}
+.caja1
+{
+    background-color: blueviolet;
+    width: 300px;
+    height:300px;
+    margin: 5px;
+
+}
+.caja2
+{
+    background-color: blueviolet;
+    width: 300px;
+    height:300px;
+    margin: 5px;
+    display: inline-block;
+
+}
+.caja3
+{
+    background-color: blueviolet;
+    width: 300px;
+    height:300px;
+    margin: 5px;
+
+}
